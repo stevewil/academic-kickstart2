@@ -1,12 +1,13 @@
 ---
+title: Steven C. Williams
+role: Academic Technologist
+avatar_filename: nintchdbpict000267260635-1-.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Nelson Spaghetti
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
