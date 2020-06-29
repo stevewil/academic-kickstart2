@@ -1,7 +1,7 @@
 ---
 title: Steven C. Williams
 role: Academic Technologist
-avatar_filename: nintchdbpict000267260635-1-.jpg
+avatar_filename: ""
 organizations:
   - name: University of California, Los Angeles
     url: ""
@@ -20,7 +20,7 @@ social:
     link: "#contact"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/stevewil
   - link: https://twitter.com/sisyphusbowles
     icon_pack: fab
     icon: twitter
@@ -34,7 +34,7 @@ education:
       year: 1984
 email: stevewil@gmail.com
 user_groups:
-  - stevewil.com
+  - ""
 ---
 Steven C. Williams.
 
