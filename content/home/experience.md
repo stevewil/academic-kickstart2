@@ -27,12 +27,21 @@ date_format = "Jan 2006"
   description = """
   Blackboard oversight and management including:
   
+  * Planning
   * Analysing
-  * Modelling
   * Deploying
   * Maintenance
-  * Planning
+ 
   """
+
+[[experience]]
+  title = "Program Coordinator"
+  company = "UCLA International Studies and Overseas Programs (ISOP)"
+  company_url = "https://www.international.ucla.edu"
+  location = "Los Angeles, California"
+  date_start = "1988-06-01"
+  date_end = "1999-05-31"
+  description = """Developed annual ISOP summer programs for local area K-12 teachers on Latin America between 1988-1999. Beginning in 1996, worked intensively on developing the first online web presence for the Center for Near Eastern Studies."""
 
 [[experience]]
   title = "Adjunct Professor"
