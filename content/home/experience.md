@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "California State University, Dominguez Hillss"
   company_url = "https://csudh.edu"
   location = "Carson, California"
-  date_start = "1999"
+  date_start = "1999-01-01"
   date_end = ""
   description = """
   Responsibilities include:
