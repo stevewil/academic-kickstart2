@@ -3,17 +3,16 @@ title: Steven C. Williams
 role: Academic Technologist
 avatar_filename: ""
 organizations:
-  - name: University of California, Los Angeles
+  - name: California State University, Dominguez Hills
     url: ""
 superuser: true
 authors:
   - admin
-bio: xxxxxxMy research interests include distributed robotics, mobile computing
-  and programmable matter.
+bio: blah, blah.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social networks and learning
+  - Digital power and social equity
+  - Brazilian history and politics
 social:
   - icon: envelope
     icon_pack: fas
