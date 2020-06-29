@@ -1,6 +1,6 @@
 ---
 role: Academic Technologist
-avatar_filename: nintchdbpict000267260635-1-.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: California State University, Dominguez Hills
     url: ""
