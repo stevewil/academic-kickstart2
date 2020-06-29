@@ -31,10 +31,10 @@ education:
     - course: BA in History
       institution: California State University, Fullerton
       year: 1984
-email: stevewil@gmail.com
+# email: stevewil@gmail.com
 user_groups:
   - ""
 ---
-Steven C. Williams.
+Steven C. Williams
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
