@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Campus Blackboard Administrator"
   company = "California State University, Dominguez Hills"
@@ -42,6 +43,7 @@ date_format = "Jan 2006"
   date_start = "1995"
   date_end = "1999"
   description = """Taught various courses on the history of Latin America and Brazil. Developed a summer teacher program for area K-12 educators."""
+ """
 
 [[experience]]
   title = "Academic Web Technologist"
@@ -51,7 +53,8 @@ date_format = "Jan 2006"
   date_start = "1995"
   date_end = "1999"
   description = """Taught various courses on the history of Latin America and Brazil."""
-
+ """
+ 
 [[experience]]
   title = "Adjunct Professor"
   company = "Middlebury College"
@@ -60,6 +63,7 @@ date_format = "Jan 2006"
   date_start = "1991"
   date_end = "1992"
   description = """Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email."""
+ """
 
 [[experience]]
   title = "Adjunct Professor"
@@ -69,7 +73,8 @@ date_format = "Jan 2006"
   date_start = "1993"
   date_end = "1994"
   description = """Taught various courses on the history of Latin America and Brazil."""
-
+ """
+ 
 [[experience]]
   title = "Adjunct Professor"
   company = "Loyola Marymount University"
@@ -78,8 +83,9 @@ date_format = "Jan 2006"
   date_start = "1994"
   date_end = "1995"
   description = """Taught various courses on the history of Latin America and Brazil."""
-  
- [[experience]]
+  """
+ 
+  [[experience]]
   title = "Adjunct Professor"
   company = "Loyola Marymount University"
   company_url = "https://lmu.edu"
@@ -87,7 +93,7 @@ date_format = "Jan 2006"
   date_start = "1991"
   date_end = "1992"
   description = """Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email."""
-
+ """
 
 
 +++
