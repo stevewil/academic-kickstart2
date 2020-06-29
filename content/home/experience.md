@@ -25,13 +25,5 @@ date_format = "Jan 2006"
   location = "Carson, California"
   date_start = "1999"
   date_end = ""
-  description = """
-  Responsibilities include: Shib auth, snapshot control and management, database queries, course retention and archiving, patch updates and upgrades, building blocks and LTI.
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  * Maintenance
-  * Upgrades
-  """
+  description = ""
 +++
