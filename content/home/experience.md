@@ -42,8 +42,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "1995"
   date_end = "1999"
-  description = """Taught various courses on the history of Latin America and Brazil. Developed a summer teacher program for area K-12 educators."""
- """
+  description = """
+  Taught various courses on the history of Latin America and Brazil. Developed a summer teacher program for area K-12 educators.
+  """
 
 [[experience]]
   title = "Academic Web Technologist"
@@ -52,8 +53,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "1995"
   date_end = "1999"
-  description = """Taught various courses on the history of Latin America and Brazil."""
- """
+  description = """
+  Taught various courses on the history of Latin America and Brazil.
+  """
  
 [[experience]]
   title = "Adjunct Professor"
@@ -62,9 +64,10 @@ date_format = "Jan 2006"
   location = "Middlebury, Vermont"
   date_start = "1991"
   date_end = "1992"
-  description = """Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email."""
- """
-
+  description = """
+  Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email.
+  """
+ 
 [[experience]]
   title = "Adjunct Professor"
   company = "University of New Mexico"
@@ -72,8 +75,9 @@ date_format = "Jan 2006"
   location = "Albuquerque, New Mexico"
   date_start = "1993"
   date_end = "1994"
-  description = """Taught various courses on the history of Latin America and Brazil."""
- """
+  description = """
+  Taught various courses on the history of Latin America and Brazil.
+  """
  
 [[experience]]
   title = "Adjunct Professor"
@@ -82,9 +86,10 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "1994"
   date_end = "1995"
-  description = """Taught various courses on the history of Latin America and Brazil."""
+  description = """
+  Taught various courses on the history of Latin America and Brazil.
   """
- 
+  
   [[experience]]
   title = "Adjunct Professor"
   company = "Loyola Marymount University"
@@ -92,8 +97,8 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "1991"
   date_end = "1992"
-  description = """Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email."""
- """
-
+  description = """
+  Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email.
+  """
 
 +++
