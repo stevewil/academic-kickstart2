@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "1999-01-01"
   date_end = ""
   description = """
-  Blackboard oversight and management including
+  Blackboard oversight and management including:
   
   * Analysing
   * Modelling
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "1994-09-01"
   date_end = "1995-05-31"
-  description = """Taught a variety of courses on the history of Latin America and Brazil."""
+  description = """Taught a variety of courses on the history of Latin America and Brazil. Experimented with email-based assignment submission from students which was a first of its kind at LMU."""
 
 [[experience]]
   title = "Adjunct Professor"
