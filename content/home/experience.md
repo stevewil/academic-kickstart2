@@ -35,18 +35,5 @@ date_format = "Jan 2006"
   * Upgrades
   """
 
-[[experience]]
-  title = "Adjunct Professor"
-  company = "UCLA Latin American Center"
-  company_url = "https://www.international.ucla.edu/lai"
-  location = "California"
-  date_start = "1995"
-  date_end = "1999"
-  description = """
-  Taught various courses on the history of Latin America and Brazil. 
-  Developed a summer teacher program for area K-12 educators.
-  """
-
-
 
 +++
