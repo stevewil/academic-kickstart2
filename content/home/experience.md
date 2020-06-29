@@ -43,62 +43,10 @@ date_format = "Jan 2006"
   date_start = "1995"
   date_end = "1999"
   description = """
-  Taught various courses on the history of Latin America and Brazil. Developed a summer teacher program for area K-12 educators.
+  Taught various courses on the history of Latin America and Brazil. 
+  Developed a summer teacher program for area K-12 educators.
   """
 
-[[experience]]
-  title = "Academic Web Technologist"
-  company = "UCLA Center for Near Eastern Studies"
-  company_url = "https://www.international.ucla.edu/cnes/"
-  location = "California"
-  date_start = "1995"
-  date_end = "1999"
-  description = """
-  Taught various courses on the history of Latin America and Brazil.
-  """
- 
-[[experience]]
-  title = "Adjunct Professor"
-  company = "Middlebury College"
-  company_url = "https://middlebury.edu"
-  location = "Middlebury, Vermont"
-  date_start = "1991"
-  date_end = "1992"
-  description = """
-  Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email.
-  """
- 
-[[experience]]
-  title = "Adjunct Professor"
-  company = "University of New Mexico"
-  company_url = "https://middlebury.edu"
-  location = "Albuquerque, New Mexico"
-  date_start = "1993"
-  date_end = "1994"
-  description = """
-  Taught various courses on the history of Latin America and Brazil.
-  """
- 
-[[experience]]
-  title = "Adjunct Professor"
-  company = "Loyola Marymount University"
-  company_url = "https://lmu.edu"
-  location = "Los Angeles, California"
-  date_start = "1994"
-  date_end = "1995"
-  description = """
-  Taught various courses on the history of Latin America and Brazil.
-  """
-  
-  [[experience]]
-  title = "Adjunct Professor"
-  company = "Loyola Marymount University"
-  company_url = "https://lmu.edu"
-  location = "California"
-  date_start = "1991"
-  date_end = "1992"
-  description = """
-  Taught various courses on the history of Latin America and Brazil. Began experimenting with email driven assignments where students submitted homework via email.
-  """
+
 
 +++
