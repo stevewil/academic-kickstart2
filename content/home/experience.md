@@ -25,20 +25,22 @@ date_format = "Jan 2006"
   date_start = "1999-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Blackboard oversight and management including
   
   * Analysing
   * Modelling
   * Deploying
+  * Maintenance
+  * Planning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Adjunct Professor of History"
+  company = "Middlebury College"
+  company_url = "http://www.middlebury.edu"
+  location = "Middlebury, Vermont"
+  date_start = "1991-09-01"
+  date_end = "1992-05-31"
+  description = """Taught a variety of courses on the history of Latin America and Brazil."""
 
 +++
