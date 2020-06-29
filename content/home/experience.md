@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Information Technology Consultant -- Expert"
-  company = "California State University, Dominguez Hills"
+  company = "California State University, Dominguez Hillss"
   company_url = "https://csudh.edu"
   location = "Carson, California"
   date_start = "1999"
