@@ -34,6 +34,4 @@ date_format = "Jan 2006"
   * Maintenance
   * Upgrades
   """
-
-
 +++
