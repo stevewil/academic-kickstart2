@@ -13,16 +13,16 @@ interests:
   - Social networks and learning
   - Digital power and social equity
   - Brazilian history and politics
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/stevewil
-  - link: https://twitter.com/sisyphusbowles
-    icon_pack: fab
-    icon: twitter
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: "#contact"
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/stevewil
+#  - link: https://twitter.com/sisyphusbowles
+#    icon_pack: fab
+#    icon: twitter
 education:
   courses:
     - course: PhD in History
