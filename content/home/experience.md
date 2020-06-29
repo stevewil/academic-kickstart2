@@ -36,9 +36,18 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Adjunct Professor"
+  company = "Loyola Marymount University, Department of History"
+  company_url = "http://www.lmu.edu"
+  location = "Los Angeles, California"
+  date_start = "1994-09-01"
+  date_end = "1995-05-31"
+  description = """Taught a variety of courses on the history of Latin America and Brazil."""
+
+[[experience]]
+  title = "Adjunct Professor"
   company = "University of New Mexico, Department of History"
   company_url = "http://www.middlebury.edu"
-  location = "Middlebury, Vermont"
+  location = "Albuquerque, New Mexico"
   date_start = "1993-09-01"
   date_end = "1994-05-31"
   description = """Taught a variety of courses on the history of Latin America and Brazil."""
