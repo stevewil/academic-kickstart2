@@ -1,28 +1,18 @@
 ---
-title: Steven C. Williams
 role: Academic Technologist
-avatar_filename: ""
+avatar_filename: nintchdbpict000267260635-1-.jpg
 organizations:
   - name: California State University, Dominguez Hills
     url: ""
 superuser: true
 authors:
   - admin
+title: Steven C. Williams
 bio: blah, blah.
 interests:
   - Social networks and learning
   - Digital power and social equity
   - Brazilian history and politics
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: "#contact"
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/stevewil
-#  - link: https://twitter.com/sisyphusbowles
-#    icon_pack: fab
-#    icon: twitter
 education:
   courses:
     - course: PhD in History
@@ -31,7 +21,6 @@ education:
     - course: BA in History
       institution: California State University, Fullerton
       year: 1984
-# email: stevewil@gmail.com
 user_groups:
   - ""
 ---
