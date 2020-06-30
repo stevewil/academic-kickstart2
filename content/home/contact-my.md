@@ -11,24 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-<em>Be BOLD</em>
-Don't be bold
-<i>Be italic, instead</i>
-
-<form
-  action="https://formspree.io/stevewil@gmail.com"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
+<form method="post" action="#">
+<form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
+<input type="hidden" name="bot-field" />
+<input type="hidden" name="form-name" value="contact" />
