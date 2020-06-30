@@ -11,7 +11,10 @@ header:
   caption: ""
   image: ""
 ---
-<form method="post" action="#">
-<form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
-<input type="hidden" name="bot-field" />
-<input type="hidden" name="form-name" value="contact" />
+
+<form method="post" action="https://formspree.io/stevewil@gmail.com">
+  <label>
+    Email
+    <input type="email" name="_replyto" />
+  </label>
+</form>
