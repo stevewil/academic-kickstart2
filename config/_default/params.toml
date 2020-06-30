@@ -14,7 +14,8 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 # theme = "1950s"
-  theme = "apogee"
+# theme = "apogee"
+  theme = "coffee"
 # theme = "minimal"
 # theme = "ocean"
 
