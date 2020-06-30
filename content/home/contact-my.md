@@ -20,7 +20,7 @@ header:
   <label>
     Your email:
 <br>
-    <input type="text" name="_replyto" size="30">
+    <input type="text" name="_replyto" size="29">
   </label>
 <br>
   <label>
