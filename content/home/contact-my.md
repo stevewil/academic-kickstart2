@@ -12,9 +12,8 @@ header:
   image: ""
 ---
 
-<form method="post" action="https://formspree.io/stevewil@gmail.com">
-  <label>
-    Email
-    <input type="email" name="_replyto" />
-  </label>
+<form action="https://formspree.io/stevewil@gmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
 </form>
