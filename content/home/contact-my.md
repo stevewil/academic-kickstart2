@@ -22,7 +22,6 @@ header:
 <br>
     <input type="text" name="_replyto">
   </label>
-  <br>
   <label>
 <br>
     Your message:
