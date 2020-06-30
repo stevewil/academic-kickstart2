@@ -20,13 +20,13 @@ header:
   <label>
     Your email:
 <br>
-    <input type="text" name="_replyto">
+    <input type="text" name="_replyto"  width="200">
   </label>
 <br>
   <label>
     Your message:
 <br>
-    <textarea name="message" width="100px"></textarea>
+    <textarea name="message" width="200"></textarea>
 
   </label>
 
