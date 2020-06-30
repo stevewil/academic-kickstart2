@@ -13,6 +13,8 @@ header:
   image: ""
 ---
 
+<i>Don't get mad. Upgrade.</i>
+
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
 <script>
