@@ -20,12 +20,13 @@ header:
     Your email:
     <input type="text" name="_replyto">
   </label>
+  <br>
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
 
   <!-- your other form fields go here -->
-
+<br>
   <button type="submit">Send</button>
 </form>
