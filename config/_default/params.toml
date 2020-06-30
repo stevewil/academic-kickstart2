@@ -15,7 +15,8 @@
 #   Browse user installed themes in `data/themes/`
 # theme = "1950s"
 # theme = "apogee"
-  theme = "coffee"
+# theme = "coffee"
+  theme = "dark"
 # theme = "minimal"
 # theme = "ocean"
 
