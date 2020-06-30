@@ -18,10 +18,12 @@ header:
 >
   <label>
     Your email:
+<br>
     <input type="text" name="_replyto">
   </label>
   <br>
   <label>
+<br>
     Your message:
     <textarea name="message"></textarea>
   </label>
