@@ -13,3 +13,4 @@ header:
 ---
 
 “Prelude for Disaster: The Politics and Structures of Urban Hygiene in Rio de Janeiro, 1808-1860,” Dissertation, University of California, Los Angeles, 1994. 
+#[Click here](https://u.pcloud.link/publink/show?code=XZ42lIkZYG6Fj6el7bHXUsNFaxjczQpFWAPX) to access.
