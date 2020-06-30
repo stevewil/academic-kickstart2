@@ -1,72 +1,21 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+---
+title: Publications
+date: "2018-06-28T00:00:00+01:00"
+draft: false
+share: false
+commentable: false
+editable: false
+weight: 200
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-title = "Recent Publications"
-subtitle = ""
+"Leading the Cohort across the Divide: Recent Best Practices to Enhance Cohort Teaching and Learning," in **Crossing the Bridge of the Digital Divide A Walk with Global Leaders**, ed. Anthony H. Normore (Charlotte, North Carolina: Information Age Publishing, 2018)"
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+"Nationalism and Public Health: The Convergence of Rockefeller Foundation Technique and Brazilian Federal Authority During the Time of Yellow Fever, 1925-1930," in **Missionaries of Science: The Rockefeller Foundation and Latin America**, ed. Marcos Cueto (Bloomington, Indiana: Indiana University Press, 1994).
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+"The International Health Board and Changing Urban/Rural Relations in Brazil," **Research Reports for the Rockefeller Archive Center**, Spring 1990.
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
