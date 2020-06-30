@@ -5,7 +5,7 @@ draft: false
 share: false
 commentable: false
 editable: false
-active = false
+active = true
 weight: 10000
 
 # Optional header image (relative to `static/img/` folder).
@@ -14,23 +14,9 @@ header:
   image: ""
 ---
 
-<form
-  action="https://formspree.io/xrgyavgk"
-  method="POST"
->
-  <label>
-    Your email:
-<br>
-    <input type="text" name="_replyto" size="29">
-  </label>
-<br>
-  <label>
-    Your message:
-<br>
-    <textarea name="message" cols="31" rows="3"></textarea>
-
-  </label>
-<br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer>
+</script>
+<script>
+    window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+    formbutton("create", {action: "https://formspree.io/xrgyavgk"})
+</script>
