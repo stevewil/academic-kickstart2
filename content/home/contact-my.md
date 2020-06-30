@@ -26,7 +26,7 @@ header:
   <label>
     Your message:
 <br>
-    <textarea name="message" cols="53" rows="15"></textarea>
+    <textarea name="message" cols="51" rows="5"></textarea>
 
   </label>
 <br>
