@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+“Prelude for Disaster: The Politics and Structures of Urban Hygiene in Rio de Janeiro, 1808-1860,” Dissertation, University of California, Los Angeles, 1994. Click here to access.
