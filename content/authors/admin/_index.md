@@ -20,7 +20,7 @@ education:
       year: 1994
     - course: BA in History
       institution: California State University, Fullerton
-      year: 1984
+      year: 1985
 user_groups:
   - ""
 ---
