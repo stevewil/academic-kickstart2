@@ -14,4 +14,4 @@ Steven C. Williams, "Nationalism and Public Health: The Convergence of Rockefell
 
 Steven C. Williams, "Prelude for Disaster: The Politics and Structures of Urban Hygiene in Rio de Janeiro, 1808-1860," Dissertation, University of California, Los Angeles, 1994.
 
-Steven C. Williams, "The International Health Board and Changing Urban/Rural Relations in Brazil," Research Reports for the Rockefeller Archive Center, Spring 1990.
+Steven C. Williams, "The International Health Board and Changing Urban/Rural Relations in Brazil," **Research Reports for the Rockefeller Archive Center**, Spring 1990.
