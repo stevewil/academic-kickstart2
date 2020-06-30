@@ -23,5 +23,5 @@ header:
 </script>
 <script>
     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/xrgyavgk"})
+    formbutton("create", {action: "https://formspree.io/xwkrnjav"})
 </script>
