@@ -26,8 +26,9 @@ header:
   <label>
 <br>
     Your message:
-    <textarea name="message" width="1vw"></textarea>
 <br>
+    <textarea name="message" width="2vw"></textarea>
+
   </label>
 
   <!-- your other form fields go here -->
