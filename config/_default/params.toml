@@ -21,7 +21,8 @@
 # theme = "minimal"
 # theme = "mr robot"
 # theme = "ocean"
- theme = "rose"
+# theme = "rose"
+ theme = "strawberry"
 
 # Enable users to switch between day and night mode?
 day_night = true
