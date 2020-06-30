@@ -13,7 +13,11 @@ header:
   image: ""
 ---
 
+<!--
 <i>Don't get mad. Upgrade.</i>
+-->
+
+<i><h2>Never waste a good crisis.</h2></i>
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
