@@ -22,11 +22,11 @@ header:
 <br>
     <input type="text" name="_replyto">
   </label>
-  <label>
 <br>
+  <label>
     Your message:
 <br>
-    <textarea name="message" width="2vw"></textarea>
+    <textarea name="message" width="100px"></textarea>
 
   </label>
 
