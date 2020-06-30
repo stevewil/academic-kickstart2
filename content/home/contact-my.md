@@ -26,11 +26,8 @@ header:
   <label>
     Your message:
 <br>
-    <textarea name="message" width="200"></textarea>
-
+    <textarea name="message" cols="100"></textarea>
   </label>
-
   <!-- your other form fields go here -->
-<br>
   <button type="submit">Send</button>
 </form>
