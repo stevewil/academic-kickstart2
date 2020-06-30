@@ -3,13 +3,13 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
+#[[main]]
+#  name = "Home"
+#  url = "#about"
+#  weight = 10
 
 [[main]]
-  name = "Experience"
+  name = "experience"
   url = "#experience"
   weight = 15
 
@@ -18,25 +18,30 @@
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "dissertation"
+  url = "#dissertation"
+  weight = 35
+
+[[main]]
+  name = "publications"
+  url = "#publications-my"
   weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "#contact-my"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
+# [[main]]
+#    name = "CV"
  #   url = "https://docs.google.com/document/d/1ZIW4sM9GNo8gcVhln7mEeMJkisQ2i9WS-nvzFqL0n9o/edit?usp=sharing"
-    url = "file.pdf"
- weight = 70
+#    url = "file.pdf"
+# weight = 70
