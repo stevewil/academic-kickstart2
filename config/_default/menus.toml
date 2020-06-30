@@ -13,10 +13,10 @@
   url = "#experience"
   weight = 15
 
-[[main]]
-  name = "etc."
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "etc."
+#  url = "#posts"
+#  weight = 20
 
 #[[main]]
 #  name = "Projects"
