@@ -24,6 +24,11 @@
 #  weight = 30
 
 [[main]]
+  name = "languages"
+  url = "#dissertation"
+  weight = 33
+
+[[main]]
   name = "dissertation"
   url = "#dissertation"
   weight = 35
