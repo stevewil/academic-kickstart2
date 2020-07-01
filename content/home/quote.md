@@ -17,11 +17,13 @@ header:
 <i>Don't get mad. Upgrade.</i>
 -->
 
-<h2><i>"I have never let my schooling interfere with my education."</i> -- Mark Twain</h2>
+### *"I have never let my schooling interfere with my education."* -- Mark Twain
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
 <script>
     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/xwkrnjav"})
+    formbutton("create", {
+	color: blue,
+	action: "https://formspree.io/xwkrnjav"})
 </script>
