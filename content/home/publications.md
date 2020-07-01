@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-"Leading the Cohort across the Divide: Recent Best Practices to Enhance Cohort Teaching and Learning," in [**Crossing the Bridge of the Digital Divide A Walk with Global Leaders**](https://www.amazon.com/Crossing-Digital-Educational-Leadership-Justice-ebook/dp/B07JJTY573/ref=sr_1_1?dchild=1&keywords=Crossing+the+Bridge+of+the+Digital+Divide+A+Walk+with+Global+Leaders&qid=1593645243&sr=8-1), ed. Anthony H. Normore and Antonia Issa Lahera (Charlotte, North Carolina: Information Age Publishing, 2018)"
+"Leading the Cohort across the Divide: Recent Best Practices to Enhance Cohort Teaching and Learning," in [**Crossing the Bridge of the Digital Divide A Walk with Global Leaders**](https://www.amazon.com/Crossing-Digital-Educational-Leadership-Justice-ebook/dp/B07JJTY573/ref=sr_1_1?dchild=1&keywords=Crossing+the+Bridge+of+the+Digital+Divide+A+Walk+with+Global+Leaders&qid=1593645243&sr=8-1), ed. Anthony H. Normore and Antonia Issa Lahera (Charlotte, North Carolina: Information Age Publishing, 2018).
 
 "Nationalism and Public Health: The Convergence of Rockefeller Foundation Technique and Brazilian Federal Authority During the Time of Yellow Fever, 1925-1930," in [**Missionaries of Science: The Rockefeller Foundation and Latin America**](https://www.researchgate.net/publication/250028578_Missionaries_of_sciences_the_Rockfeller_Foundation_and_Latin_America), ed. Marcos Cueto (Bloomington, Indiana: Indiana University Press, 1994).
 
