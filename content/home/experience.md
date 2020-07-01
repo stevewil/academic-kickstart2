@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "California State University, Dominguez Hills"
   company_url = "https://csudh.edu"
   location = "Carson, California"
-  date_start = "1999-01-01"
+  date_start = "1999-06-01"
   date_end = ""
   description = """
   Hired as an emergency replacement for a part-time summer contract, the job morphed into a full management position of the campus Blackboard server. Eventually played key roled developing the entire campus learning management infrastructure including:
