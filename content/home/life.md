@@ -23,7 +23,7 @@ Computer
 > HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Nginx web server | Debian Linux | Microsoft Windows
 
 Motor
-> Photography | Cycling | Long Distance Travel
+> photography | cycling | long distance travel
 
 <!--
 Websites
