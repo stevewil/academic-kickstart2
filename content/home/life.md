@@ -14,18 +14,18 @@ header:
 ---
 
 People
-> Family | Friends | Colleagues
+> Family | Friends | Colleagues | [IndieWeb](https://indieweb.org)
 
 Languages
 > English | Portuguese | Spanish
 
 Computer
-> [IndieWeb](https://indieweb.org) | HTML | CSS | Markdown | Nginx web server | Debian Linux | Microsoft Windows
+> HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Nginx web server | Debian Linux | Microsoft Windows
 
 Motor
 > Photography | Cycling | Long Distance Travel
 
-Brain
-> Reading | twitter |
-
+<!--
+Websites
+-->
 
