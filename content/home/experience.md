@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "Carson, California"
   date_start = "1999-06-01"
   date_end = ""
-  weight: 5
   description = """
   Hired as an emergency replacement for a part-time summer contract, the job morphed into a full management position of the campus Blackboard server. Eventually played key roled developing the entire campus learning management infrastructure including:
   
@@ -42,7 +41,6 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2015-06-01"
   date_end = "2018-11-01"
-  weight: 10
   description = """Helped the APLA team develop in-house training modules for clients throughough the greater Southern California region."""
 
 [[experience]]
@@ -80,4 +78,7 @@ date_format = "Jan 2006"
   date_start = "1991-09-01"
   date_end = "1992-05-31"
   description = """Taught a variety of courses on the history of Latin America and Brazil."""
+
+
+
 +++
