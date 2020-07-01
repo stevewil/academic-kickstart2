@@ -17,5 +17,5 @@ header:
 
 "Nationalism and Public Health: The Convergence of Rockefeller Foundation Technique and Brazilian Federal Authority During the Time of Yellow Fever, 1925-1930," in [**Missionaries of Science: The Rockefeller Foundation and Latin America**](https://www.researchgate.net/publication/250028578_Missionaries_of_sciences_the_Rockfeller_Foundation_and_Latin_America), ed. Marcos Cueto (Bloomington, Indiana: Indiana University Press, 1994).
 
-"The International Health Board and Changing Urban/Rural Relations in Brazil," **[Research Reports for the Rockefeller Archive Center**](https://rockarch.issuelab.org), Spring 1990.
+"The International Health Board and Changing Urban/Rural Relations in Brazil," [**Research Reports for the Rockefeller Archive Center**](https://rockarch.issuelab.org), Spring 1990.
 
