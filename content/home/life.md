@@ -20,7 +20,7 @@ Languages
 > English | Portuguese | Spanish
 
 Computer
-> HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Nginx web server | Debian Linux | Microsoft Windows
+> HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Apache and Nginx web services | Debian Linux | Microsoft Windows
 
 Kinetic
 > photography | cycling | long distance travel
