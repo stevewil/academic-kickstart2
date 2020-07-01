@@ -13,11 +13,11 @@ header:
   image: ""
 ---
 
-### Handcrafted using Notepad++
+#### Handcrafted using Notepad++
 > [DHTV](http://dhtv.csudh.edu) | [USC-CALIS Activities Database](https://usc-calis.net/db)
-### Modded stuff
+#### Modded stuff
 > [CSUDH Blackboard](https://toro.csudh.edu) | [USC-CALIS Teachers' Forums](https://www.forums.usc-calis.net)
-### Historical
+#### Historical
 > [Global Learning Outreach](https://web.archive.org/web/20000301060753/http://www.glo.org)
 <!--
 Stuff I like

@@ -13,16 +13,16 @@ header:
   image: ""
 ---
 
-### People
+#### People
 > family | friends | colleagues | [IndieWeb](https://indieweb.org)
 
-### Languages
+#### Languages
 > English | Portuguese | Spanish
 
-### Computational
+#### Computational
 > HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Apache and Nginx web services | Debian Linux | Microsoft Windows
 
-### Kinetic
+#### Kinetic
 > photography | cycling | long distance travel
 
 <!--
