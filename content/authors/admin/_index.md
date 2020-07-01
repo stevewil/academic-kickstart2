@@ -3,7 +3,7 @@ role: Academic Technologist
 avatar_filename: avatar.jpg
 organizations:
   - name: California State University, Dominguez Hills
-    url: ""
+    url: "https://csudh.edu"
 superuser: true
 authors:
   - admin
@@ -24,6 +24,4 @@ education:
 user_groups:
   - ""
 ---
-Steven C. Williams
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Steven C. Williams is an academic technologist at the Dominguez Hills campus of the California State University system where he administers and runs the campus learning management system. His position allows him to facilitate the integration of teaching and learning technologies with faculty, staff and students. His academic background combined with his autodidactic interests in the computational arts (i.e, he's a longtime self-taught hacker with server, coding and database experience) has allowed him to develop a unique skillset among colleagues both inside and outside academia.
