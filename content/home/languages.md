@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-Spoken:
+Spoken/Reading:
 > English |
 > Portuguese |
 > Spanish
