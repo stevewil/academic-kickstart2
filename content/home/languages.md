@@ -14,17 +14,17 @@ header:
 ---
 
 Spoken:
-> English
-> Portuguese
+> English |
+> Portuguese |
 > Spanish
 
 Written:
-> English
+> English |
 > Portuguese
 
 Computer:
-> HTML
-> CSS
-> nginx web server
-> Linux Debian
+> HTML |
+> CSS |
+> nginx web server |
+> Linux Debian |
 > Microsoft Windows
