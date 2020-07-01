@@ -17,7 +17,7 @@ header:
 <i>Don't get mad. Upgrade.</i>
 -->
 
-<i><h2>Never waste a good crisis.</h2></i>
+<h2><i>"I have never let my schooling interfere with my education."</i> -- Mark Twain</h2>
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
