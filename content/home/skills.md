@@ -21,3 +21,6 @@ Computer
 
 Motor
 > Photography | Cycling | Long Distance Travel
+
+People
+> Family | Friends | Colleagues
