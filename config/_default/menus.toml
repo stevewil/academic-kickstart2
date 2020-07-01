@@ -24,8 +24,8 @@
 #  weight = 30
 
 [[main]]
-  name = "skills"
-  url = "#skills"
+  name = "life"
+  url = "#life"
   weight = 33
 
 [[main]]

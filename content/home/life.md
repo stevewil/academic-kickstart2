@@ -14,7 +14,7 @@ header:
 ---
 
 People
-> Family | Friends | Colleagues | [IndieWeb](https://indieweb.org)
+> family | friends | colleagues | [IndieWeb](https://indieweb.org)
 
 Languages
 > English | Portuguese | Spanish
