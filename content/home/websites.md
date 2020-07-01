@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-<h3>Hand crafted using Notepad++</h3>
+<h3>Hand crafted using Notepad</h3>
  [DHTV (current)](http://dhtv.csudh.edu) | [USC-CALIS Activities Database](https://usc-calis.net/db) | [USC-CALIS Teachers' Forums](https://www.forums.usc-calis.net)
 <h3>Modded stuff</h3>
 > [Global Learning Outreach (2000)](https://web.archive.org/web/20000301060753/http://www.glo.org)
