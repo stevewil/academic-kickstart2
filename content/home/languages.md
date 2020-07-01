@@ -13,18 +13,11 @@ header:
   image: ""
 ---
 
-Spoken/Reading:
-> English |
-> Portuguese |
-> Spanish
+Spoken/Reading
+> English | Portuguese | Spanish
 
-Written:
-> English |
-> Portuguese
+Written
+> English | Portuguese 
 
-Computer:
-> HTML |
-> CSS |
-> nginx web server |
-> Linux Debian |
-> Microsoft Windows
+Computer
+> HTML | CSS | Nginx web server | Debian Linux | Microsoft Windows
