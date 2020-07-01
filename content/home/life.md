@@ -19,7 +19,7 @@ People
 Languages
 > English | Portuguese | Spanish
 
-Computer
+Computational
 > HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Apache and Nginx web services | Debian Linux | Microsoft Windows
 
 Kinetic
