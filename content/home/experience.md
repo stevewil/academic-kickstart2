@@ -35,6 +35,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Program Consultant"
+  company = "AIDS Project Los Angeles"
+  company_url = "https://aplahealth.org/"
+  location = "Los Angeles, California"
+  date_start = "2015-06-01"
+  date_end = "2018-11-01"
+  description = """Helped the APLA team develop in-house training modules for clients throughough the greater Southern California region."""
+
+[[experience]]
   title = "Program Coordinator"
   company = "UCLA International Studies and Overseas Programs (ISOP)"
   company_url = "https://www.international.ucla.edu"
