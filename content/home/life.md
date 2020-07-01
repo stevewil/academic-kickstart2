@@ -22,7 +22,7 @@ Languages
 Computer
 > HTML | CSS | [markdown](https://www.markdownguide.org/basic-syntax) | Nginx web server | Debian Linux | Microsoft Windows
 
-Motor
+Kinetic
 > photography | cycling | long distance travel
 
 <!--
