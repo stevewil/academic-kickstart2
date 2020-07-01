@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-Stuff I built
+<h3>My work</h3>
 > [Global Learning Outreach (2000)](https://web.archive.org/web/20000301060753/http://www.glo.org) | [DHTV (current)](http://dhtv.csudh.edu) | [USC-CALIS Activities Database](https://usc-calis.net/db) | [USC-CALIS Teachers' Forums](https://www.forums.usc-calis.net)
 <!--
 Stuff I like
