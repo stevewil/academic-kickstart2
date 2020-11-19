@@ -17,7 +17,7 @@ header:
 <i>Don't get mad. Upgrade.</i>
 -->
 
-### *"I have never let my schooling interfere with my education..."* -- Mark Twain
+### *"I have never let my schooling interfere with my education...."* -- Mark Twain
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
