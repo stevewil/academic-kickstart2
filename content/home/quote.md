@@ -17,7 +17,7 @@ header:
 <i>Don't get mad. Upgrade.</i>
 -->
 
-### *"I have never let my schooling interfere with my education...."* -- Mark Twain
+### *"Ahab is for ever Ahab, man. This whole act's immutably decreed."* -- Herman Melville, Moby Dick
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer>
 </script>
